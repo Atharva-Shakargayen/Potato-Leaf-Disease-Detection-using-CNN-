@@ -5,3 +5,8 @@ I used FastAPI and Tf-serving for serving the model and accessing it from the fr
 For front end, I used HTML, CSS and JavaScript.
 I have used ImageDataGenerator for all the preprocessing and Data Augmentation.
 The overall accuracy of model is 88%.
+
+
+
+
+*** DATASET IS ON KAGGLE : PLANTVILLAGE DATASET***
